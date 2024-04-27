@@ -1,0 +1,7 @@
+gradio
+openai
+numpy
+flask
+uvicorn
+gunicorn
+python-dotenv
